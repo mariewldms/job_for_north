@@ -7,3 +7,5 @@
 3. data3.py: 연령, 학력에 따른 직무추천순위 배열 출력
 4. data4.py: matplotlib를 이용한 data3.py 직무추천 시각화
 5. data5.py: scikit learn을 이용한 데이터마이닝: 학력에 따른 직무추천
+
+[이미지1]https://github.com/mariewldms/job_for_north/blob/main/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98_1.png
